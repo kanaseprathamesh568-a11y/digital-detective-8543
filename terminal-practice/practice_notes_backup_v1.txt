@@ -1,0 +1,2 @@
+Line 1: Exploring CLI file operations in digital detective assignment.
+Line 2: Successfully appended second line using double chevron operator.
