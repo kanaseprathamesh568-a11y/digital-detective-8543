@@ -28,8 +28,8 @@ In accordance with the assignment guidelines, each mission is completed, documen
 | **Mission 3** | Understand the operating system | [mission-03-operating-system/README.md](mission-03-operating-system/README.md) | Completed |
 | **Mission 4** | How programs run | [mission-04-programs/README.md](mission-04-programs/README.md) | Completed |
 | **Mission 5** | Numbers and data | [mission-05-numbers-data/README.md](mission-05-numbers-data/README.md) | Completed |
-| **Mission 6** | Git and GitHub | [mission-06-git-github/README.md](mission-06-git-github/README.md) | In Progress |
-| **Mission 7** | How computers communicate | [mission-07-networking/README.md](mission-07-networking/README.md) | Pending |
+| **Mission 6** | Git and GitHub | [mission-06-git-github/README.md](mission-06-git-github/README.md) | Completed |
+| **Mission 7** | How computers communicate | [mission-07-networking/README.md](mission-07-networking/README.md) | In Progress |
 | **Mission 8** | Final report and submission | [mission-08-final-report/README.md](mission-08-final-report/README.md) | Pending |
 
 ---
