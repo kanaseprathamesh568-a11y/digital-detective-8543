@@ -34,6 +34,15 @@ In accordance with the assignment guidelines, each mission is completed, documen
 
 ---
 
+## My Learning
+
+Working through these early missions has provided several concrete insights:
+1. **Command-Line Confidence:** Moving from GUI file managers to Terminal commands (`pwd`, `ls -lah`, `cp`, `mv`) showed me how direct and scriptable filesystem management really is. Learning safe redirection (`>>` vs `>`) was a practical lesson in avoiding accidental data loss.
+2. **System Layers & Resource Tracking:** Exploring processes via `ps` and `top` helped me visualize how the OS kernel schedules CPU time and allocates virtual memory. Understanding permission bits (`rwx`) clarified how multi-user systems secure files.
+3. **Data Representation Mechanics:** Converting decimal numbers to binary and hexadecimal by hand and confirming them with Python revealed how hardware logic natively handles data in binary nibbles and bytes.
+
+---
+
 ## Security & Privacy Notice
 
 In line with assignment submission instructions, no personal passwords, network keys, authentication tokens, or private host details are published in this repository. Any system-generated identifiers or network details included as part of evidence have been sanitized or replaced with privacy-safe placeholders (`[redacted]`).
